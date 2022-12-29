@@ -1,0 +1,15 @@
+/Users/ali/Projects/hometask6/hometask6/bin/Debug/net6.0/hometask6
+/Users/ali/Projects/hometask6/hometask6/bin/Debug/net6.0/hometask6.deps.json
+/Users/ali/Projects/hometask6/hometask6/bin/Debug/net6.0/hometask6.runtimeconfig.json
+/Users/ali/Projects/hometask6/hometask6/bin/Debug/net6.0/hometask6.dll
+/Users/ali/Projects/hometask6/hometask6/bin/Debug/net6.0/hometask6.pdb
+/Users/ali/Projects/hometask6/hometask6/obj/Debug/net6.0/hometask6.csproj.AssemblyReference.cache
+/Users/ali/Projects/hometask6/hometask6/obj/Debug/net6.0/hometask6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ali/Projects/hometask6/hometask6/obj/Debug/net6.0/hometask6.AssemblyInfoInputs.cache
+/Users/ali/Projects/hometask6/hometask6/obj/Debug/net6.0/hometask6.AssemblyInfo.cs
+/Users/ali/Projects/hometask6/hometask6/obj/Debug/net6.0/hometask6.csproj.CoreCompileInputs.cache
+/Users/ali/Projects/hometask6/hometask6/obj/Debug/net6.0/hometask6.dll
+/Users/ali/Projects/hometask6/hometask6/obj/Debug/net6.0/refint/hometask6.dll
+/Users/ali/Projects/hometask6/hometask6/obj/Debug/net6.0/hometask6.pdb
+/Users/ali/Projects/hometask6/hometask6/obj/Debug/net6.0/hometask6.genruntimeconfig.cache
+/Users/ali/Projects/hometask6/hometask6/obj/Debug/net6.0/ref/hometask6.dll
